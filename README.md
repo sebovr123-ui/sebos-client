@@ -1,0 +1,2 @@
+# sebos-client
+EAGLERCRAFT CLIENT
